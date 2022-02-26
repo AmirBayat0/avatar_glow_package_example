@@ -86,7 +86,7 @@ class AvatarGlowScreen extends StatelessWidget {
                 child: CircleAvatar(
                   radius: 40,
                   backgroundImage: NetworkImage(
-                      "https://avatars.githubusercontent.com/u/91388754?v=4"),
+                      "YOUR IMAGE URL"),
                 ),
                 endRadius: 100,
                 glowColor: Color.fromARGB(255, 96, 37, 199),
